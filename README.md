@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Ronald Moreno</h1>
-<h3 align="center">Desarrollador Full-Stack · Java Spring Boot + React · Medellín, Colombia 🇨🇴</h3>
+<h3 align="center">Desarrollador junior Full-Stack · Java Spring Boot + React · Medellín, Colombia 🇨🇴</h3>
 
 <p align="center">
   <a href="https://github.com/7RonMor7">
@@ -11,14 +11,13 @@
 
 ## 🧑‍💻 Sobre mí · About me
 
-Soy desarrollador full-stack: construyo aplicaciones web completas, desde el modelo de datos y la API en **Java / Spring Boot** hasta interfaces responsivas en **React**, y me encargo también del despliegue en producción.
+Soy desarrollador junior full-stack: construyo aplicaciones web completas, desde el modelo de datos y la API en **Java / Spring Boot** hasta interfaces responsivas en **React**, y me encargo también del despliegue en producción.
 
 > *Full-stack developer. I build complete web applications — from the data model and the Spring Boot API to responsive React interfaces — and take them all the way to production.*
 
 - 🔭 Actualmente trabajo en **PetCare**, una plataforma de reservas y pagos de servicios para mascotas *(Spring Boot + React + MySQL)*
 - 🌱 Aprendiendo **Spring Security con JWT**, **Docker** y buenas prácticas de arquitectura backend
 - 🚀 Me interesa todo el ciclo: diseño → desarrollo → despliegue *(Render, Netlify, Docker)*
-- 💬 Pregúntame sobre **APIs REST con Spring Boot**, **React + Tailwind** o **modelado de bases de datos MySQL**
 
 ---
 
@@ -40,7 +39,6 @@ Soy desarrollador full-stack: construyo aplicaciones web completas, desde el mod
 <p align="center">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -56,18 +54,14 @@ Soy desarrollador full-stack: construyo aplicaciones web completas, desde el mod
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
 | **[NovaTech](https://github.com/7RonMor7/novatech)** | Aplicación web full-stack de comercio electrónico, desplegada en producción (frontend en Netlify, backend en Render con Docker). | `Spring Boot` `React` `MySQL` `Docker` |
-| **PetCare** | Plataforma de servicios para mascotas: reservas, pagos en línea, notificaciones y panel administrativo con roles. | `Spring Boot` `Spring Security + JWT` `React` `MySQL` |
-| **Portafolio web** | Portafolio personal con tema oscuro, navegación por secciones y diseño totalmente responsivo. | `React` `Tailwind CSS` |
-| **FiadDesk** | Proyecto de investigación: app móvil para la gestión de fiados en tiendas de barrio. | `Investigación` `Mobile` |
+| **[Portafolio web](https://github.com/7RonMor7/7RonMor7.github.io)** | Portafolio personal con tema oscuro, navegación por secciones y diseño totalmente responsivo. | `React` `Tailwind CSS` |
+<!--| **PetCare** | Plataforma de servicios para mascotas: reservas, pagos en línea, notificaciones y panel administrativo con roles. | `Spring Boot` `Spring Security + JWT` `React` `MySQL` |
+| **FiadDesk** | Proyecto de investigación: app móvil para la gestión de fiados en tiendas de barrio. | `Investigación` `Mobile` | -->
+
 
 ---
 
 ## 📊 Estadísticas de GitHub · GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=7RonMor7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7RonMor7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=7RonMor7&theme=tokyonight&hide_border=true" alt="GitHub streak" />
@@ -78,10 +72,10 @@ Soy desarrollador full-stack: construyo aplicaciones web completas, desde el mod
 ## 🤝 Conectemos · Let's connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank">
+  <a href="https://www.linkedin.com/in/ronald-moreno-53a1702a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ronald.moreno113@pascualbravo.edu.co">
+  <a href="mailto:ronald7moreno7">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/7RonMor7">
