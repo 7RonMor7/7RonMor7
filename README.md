@@ -10,10 +10,9 @@
 ---
 
 ## 🧑‍💻 Sobre mí · About me
+Soy estudiante de Desarrollo de Software, enfocado en construir aplicaciones **full-stack** usando tecnologías modernas, con especial interés en desarrollo **backend**, bases de datos y soluciones de software escalables.
 
-Soy desarrollador junior full-stack: construyo aplicaciones web completas, desde el modelo de datos y la API en **Java / Spring Boot** hasta interfaces responsivas en **React**, y me encargo también del despliegue en producción.
-
-> *Full-stack developer. I build complete web applications — from the data model and the Spring Boot API to responsive React interfaces — and take them all the way to production.*
+> *Software Development student focused on building full-stack applications using modern technologies, with a strong interest in backend development, databases and scalable software solutions.*
 
 - 🔭 Actualmente trabajo en **PetCare**, una plataforma de reservas y pagos de servicios para mascotas *(Spring Boot + React + MySQL)*
 - 🌱 Aprendiendo **Spring Security con JWT**, **Docker** y buenas prácticas de arquitectura backend
