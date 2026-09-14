@@ -2,9 +2,7 @@
 <h3 align="center">Desarrollador junior Full-Stack · Java Spring Boot + React · Medellín, Colombia 🇨🇴</h3>
 
 <p align="center">
-  <a href="https://github.com/7RonMor7">
-    <img src="https://komarev.com/ghpvc/?username=7RonMor7&label=Visitas%20al%20perfil&color=6366f1&style=flat-square" alt="profile views" />
-  </a>
+  Portafolio web: https://7ronmor7.github.io/
 </p>
 
 ---
