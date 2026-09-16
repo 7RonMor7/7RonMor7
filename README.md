@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy Ronald Moreno</h1>
+<h1 align="center">¡Hola! 👋🏽 Soy Ronald Moreno</h1>
 <h3 align="center">Desarrollador junior Full-Stack · Java Spring Boot + React · Medellín, Colombia 🇨🇴</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí · About me
+## 👨🏽‍💻 Sobre mí · About me
 Soy estudiante de Desarrollo de Software, enfocado en construir aplicaciones **full-stack** usando tecnologías modernas, con especial interés en desarrollo **backend**, bases de datos y soluciones de software escalables.
 
 > *Software Development student focused on building full-stack applications using modern technologies, with a strong interest in backend development, databases and scalable software solutions.*
@@ -66,7 +66,7 @@ Soy estudiante de Desarrollo de Software, enfocado en construir aplicaciones **f
 
 ---
 
-## 🤝 Conectemos · Let's connect
+## 🫱🏽‍🫲🏻 Conectemos · Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ronald-moreno-53a1702a5/" target="_blank">
