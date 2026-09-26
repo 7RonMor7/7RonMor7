@@ -75,7 +75,7 @@ Soy estudiante de Desarrollo de Software, enfocado en construir aplicaciones **f
   <a href="mailto:ronald7moreno7">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/7RonMor7">
+  <a href="https://7ronmor7.github.io/">
     <img src="https://img.shields.io/badge/Portafolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
   </a>
 </p>
