@@ -52,8 +52,8 @@ Soy estudiante de Desarrollo de Software, enfocado en construir aplicaciones **f
 | :--- | :--- | :--- |
 | **[NovaTech](https://github.com/7RonMor7/novatech)** | Aplicación web full-stack de comercio electrónico, desplegada en producción (frontend en Netlify, backend en Render con Docker). | `Spring Boot` `React` `MySQL` `Docker` |
 | **[Portafolio web](https://github.com/7RonMor7/7RonMor7.github.io)** | Portafolio personal con tema oscuro, navegación por secciones y diseño totalmente responsivo. | `React` `Tailwind CSS` |
-<!--| **PetCare** | Plataforma de servicios para mascotas: reservas, pagos en línea, notificaciones y panel administrativo con roles. | `Spring Boot` `Spring Security + JWT` `React` `MySQL` |
-| **FiadDesk** | Proyecto de investigación: app móvil para la gestión de fiados en tiendas de barrio. | `Investigación` `Mobile` | -->
+| **PetCare** | Plataforma de servicios para mascotas: reservas, pagos en línea, notificaciones y panel administrativo con roles. | `Spring Boot` `Spring Security + JWT` `React` `MySQL` |
+<!--| **FiadDesk** | Proyecto de investigación: app móvil para la gestión de fiados en tiendas de barrio. | `Investigación` `Mobile` | -->
 
 
 ---
